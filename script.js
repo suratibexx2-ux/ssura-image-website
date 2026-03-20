@@ -1,0 +1,1 @@
+console.log("Sura Image loaded");
